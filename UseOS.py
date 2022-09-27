@@ -1,4 +1,4 @@
-## Exercise - Working with os
+## Exercise 34 - Working with os
 
 # Create a directory structure by using os
 # Create one parent directory with at least five child directories
