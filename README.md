@@ -5,15 +5,15 @@ All exercises done in the modules part of module 1.
 **Python Modules**
 * Exercise 33 - New modules: [`NewModules.py`](https://github.com/rominafernandez/Python_Modules/blob/master/NewModules.py)
 * Exercise 34 - Working with os: [`UseOS.py`](https://github.com/rominafernandez/Python_Modules/blob/master/UseOS.py)
-* Exercise 69 - Simple Plots:
+* Exercise 69 - Simple Plots: [`SimplePlots.py`](https://github.com/rominafernandez/Python_Modules/blob/master/SimplePlots.py)
 * Exercise 35 - Working with math: [`UseMath.py`](https://github.com/rominafernandez/Python_Modules/blob/master/UseMath.py)
 * Exercise 36 - Working with constants: [`UseMath.py`](https://github.com/rominafernandez/Python_Modules/blob/master/UseMath.py)
-* Exercise 37 - Random generator:
-* Exercise 38 - NumPy arrays:
+* Exercise 37 - Random generator: [`RandomGen.py`](https://github.com/rominafernandez/Python_Modules/blob/master/RandomGen.py)
+* Exercise 38 - NumPy arrays: [`NumPyArrays.py`](https://github.com/rominafernandez/Python_Modules/blob/master/NumPyArrays.py)
 * Exercise 68 - Generating Plots:
-* Exercise 80 - Mathematics with NumPy:
-* Exercise 39 - Pandas DataFrames:
-* Exercise 73 - Pandas and Files:
+* Exercise 80 - Mathematics with NumPy: [`NumPyArrays.py`](https://github.com/rominafernandez/Python_Modules/blob/master/NumPyArrays.py)
+* Exercise 39 - Pandas DataFrames: [`PandasDF.py`](https://github.com/rominafernandez/Python_Modules/blob/master/PandasDF.py)
+* Exercise 73 - Pandas and Files: [`PandasDF.py`](https://github.com/rominafernandez/Python_Modules/blob/master/PandasDF.py)
 * Group Exercise 07 - DataFrames and Plots:
 
 **Working with Files**
