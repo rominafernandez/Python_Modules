@@ -10,16 +10,16 @@ All exercises done in the modules part of module 1.
 * Exercise 36 - Working with constants: [`UseMath.py`](https://github.com/rominafernandez/Python_Modules/blob/master/UseMath.py)
 * Exercise 37 - Random generator: [`RandomGen.py`](https://github.com/rominafernandez/Python_Modules/blob/master/RandomGen.py)
 * Exercise 38 - NumPy arrays: [`NumPyArrays.py`](https://github.com/rominafernandez/Python_Modules/blob/master/NumPyArrays.py)
-* Exercise 68 - Generating Plots:
+* Exercise 68 - Generating Plots: [`NumPyArrays.py`](https://github.com/rominafernandez/Python_Modules/blob/master/NumPyArrays.py)
 * Exercise 80 - Mathematics with NumPy: [`NumPyArrays.py`](https://github.com/rominafernandez/Python_Modules/blob/master/NumPyArrays.py)
 * Exercise 39 - Pandas DataFrames: [`PandasDF.py`](https://github.com/rominafernandez/Python_Modules/blob/master/PandasDF.py)
 * Exercise 73 - Pandas and Files: [`PandasDF.py`](https://github.com/rominafernandez/Python_Modules/blob/master/PandasDF.py)
-* Group Exercise 07 - DataFrames and Plots:
+* Group Exercise 07 - DataFrames and Plots: [`DataFramesPlots.py`](https://github.com/rominafernandez/Python_Modules/blob/master/DataFramesPlots.py)
 
 **Working with Files**
-* Exercise 43 - Writing Files:
-* Exercise 44 - Reading a File:
-* Exercise 45 - Copying files:
+* Exercise 43 - Writing Files: [`WriteFiles.py`](https://github.com/rominafernandez/Python_Modules/blob/master/WriteFiles.py)
+* Exercise 44 - Reading a File: [`WriteFiles.py`](https://github.com/rominafernandez/Python_Modules/blob/master/WriteFiles.py)
+* Exercise 45 - Copying files: [`WriteFiles.py`](https://github.com/rominafernandez/Python_Modules/blob/master/WriteFiles.py)
 
 **Additional Lectures**
 * Exercise 41 - Exceptions on inputs:
